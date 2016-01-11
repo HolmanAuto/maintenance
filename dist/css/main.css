@@ -1,0 +1,22 @@
+.stewgle-maintenance-img {
+    /*max-width: 80%;*/
+}
+
+.responsive-padding {
+    padding-top: 280px;
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (max-width: 768px) {
+    body {
+        text-align: center;
+    }
+
+    .stewgle-maintenance-img {
+        max-width: 30%;
+    }
+
+    .responsive-padding {
+        padding-top: 0;
+    }
+}
